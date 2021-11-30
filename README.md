@@ -1,2 +1,3 @@
-# Capstone
-Flatiron Phase 5 Capstone Project
+![](.images/JN_header.jpg)
+# Flatiron Phase 5 Capstone Project
+
