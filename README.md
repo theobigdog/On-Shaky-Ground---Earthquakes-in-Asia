@@ -16,3 +16,9 @@ Formed in 2009, The Earthquake Disaster Assistance Team (EDAT) is an internation
 ## Data Understanding
 ---
 Data
+
+
+
+
+
+![](./images/gradient map overlaid white legend.png)
