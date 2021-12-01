@@ -21,4 +21,4 @@ Data
 
 
 
-![](./images/gradient map overlaid white legend.png)
+![](./images/gradient_map_overlaid_white_legend.png)
