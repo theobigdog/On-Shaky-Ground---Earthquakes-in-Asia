@@ -30,6 +30,7 @@ Formed in 2009, the [EDAT](https://www.usgs.gov/natural-hazards/earthquake-hazar
 ## Data Understanding
 ---
 ![](./images/gradient_map_overlaid_white_legend.png)
+
 All data come from the Kaggle "Significant Earthquakes, 1965-2016" dataset, which includes the date, time and location of all earthquakes with a magnitude of 5.5 or higher during this time frame. The set contains ~23,000 entries with 21 features(columns), including, in addition to the above, such information as type, depth, seismic stations and magnitude types, amongst others. The target column, Magnitude includes the relative strength of each earthquake-entry. The other features of interest in this dataset include Latitude, Longitude and Depth, with many remaining columns lacking enough information to allow for proper model-development. I was able to use the features provided about each earthquake to develop a predictive model for future earthquake magnitudes, relative to geographical location, allowing for a better sense of preparedness to be developed.
 
 ## Column Inclusion/EDA
