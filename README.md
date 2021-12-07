@@ -48,7 +48,7 @@ Due to the nature of this dataset, and earthquakes in general, time-series was t
 
 ## Conclusions
 ---
-While it is not currently feasible to predict both specific location as well as magnitude, not-to-mention specific timing of earthquakes, this model has shown to be a good predictor of magnitude of earthquakes in Asia and Japan in particular.  Asia and Japan were predicted to have M-5.88 ± 0.143 and M-5.90 ± 0.189, respectively, earthquakes, both of which were significantly, geographically related.  I offer these results to the Earthquake Disaster Assistance Team, with the intention to help in the process of earthquake preparedness.
+While it is not currently feasible to predict both specific location as well as magnitude, not-to-mention specific timing of earthquakes, this model has shown to be a good predictor of magnitude of earthquakes in Asia and Japan in particular.  Asia and Japan were predicted to have earthquakes of M-5.88 ± 0.143 and M-5.90 ± 0.189, respectively, both of which were significantly, geographically related.  I offer these results to the Earthquake Disaster Assistance Team, with the intention to help in the process of earthquake preparedness.
 
 
 Project Structure
